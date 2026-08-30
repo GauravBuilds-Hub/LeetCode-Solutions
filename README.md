@@ -15,3 +15,4 @@ A collection of my LeetCode problem solutions written while practicing Data Stru
 | 509 | Fibonacci Number | [/509_fibonacci_number.py](./509_fibonacci_number.py) | Python | Easy |
 | 1137 | N-th Tribonacci Number | [/1137_tribonacci_number.py.](./1137_tribonacci_number.py.) | Python | Easy |
 | 0231 | Power of Two | [/231_power_of_two.py](./231_power_of_two.py) | Python | Easy |
+| 1431 | Kids With the Greatest Number of Candies| [/1431_kids_with_greatest_number_of_candies.py](./1431_kids_with_greatest_number_of_candies.py) |Python| Easy |
