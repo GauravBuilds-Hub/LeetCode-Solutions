@@ -13,3 +13,4 @@ A collection of my LeetCode problem solutions written while practicing Data Stru
 | 2520 | Count Digits That Divide a Number | [2520_count_digits_that_divide_a_number.py](./2520_count_digits_that_divide_a_number.py) | Python | Easy |
 1281 | Subtract the Product and Sum of Digits of an Integer | [1281_subtract_product_and_sum.py](./1281_subtract_product_and_sum.py) | Python | Easy |
 | 509 | Fibonacci Number | [/509_fibonacci_number.py](./509_fibonacci_number.py) | Python | Easy |
+| 1137 | N-th Tribonacci Number | [/1137_tribonacci_number.py.](./1137_tribonacci_number.py.) | Python | Easy |
