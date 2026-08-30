@@ -14,4 +14,4 @@ A collection of my LeetCode problem solutions written while practicing Data Stru
 1281 | Subtract the Product and Sum of Digits of an Integer | [1281_subtract_product_and_sum.py](./1281_subtract_product_and_sum.py) | Python | Easy |
 | 509 | Fibonacci Number | [/509_fibonacci_number.py](./509_fibonacci_number.py) | Python | Easy |
 | 1137 | N-th Tribonacci Number | [/1137_tribonacci_number.py.](./1137_tribonacci_number.py.) | Python | Easy |
-| 1137 | Power of Two | [/231_power_of_two.py](./231_power_of_two.py) | Python | Easy |
+| 0231 | Power of Two | [/231_power_of_two.py](./231_power_of_two.py) | Python | Easy |
