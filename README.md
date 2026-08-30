@@ -12,4 +12,4 @@ A collection of my LeetCode problem solutions written while practicing Data Stru
 | 1523 | Count Odd Numbers in an Interval Range | [1523_count_odd_numbers.py](./1523_count_odd_numbers.py) | Python | Easy |
 | 2520 | Count Digits That Divide a Number | [2520_count_digits_that_divide_a_number.py](./2520_count_digits_that_divide_a_number.py) | Python | Easy |
 1281 | Subtract the Product and Sum of Digits of an Integer | [1281_subtract_product_and_sum.py](./1281_subtract_product_and_sum.py) | Python | Easy |
-| 509 | Fibonacci Number | [Python](./509_fibonacci_number.py) | Easy |
+| 509 | Fibonacci Number | [/509_fibonacci_number.py](./509_fibonacci_number.py) | Python | Easy |
